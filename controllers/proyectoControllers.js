@@ -166,6 +166,7 @@ const eliminarColaborador = async (req, res) => {
     res.json({msg:'Colaborador Eliminado correctamente'})
 }
 
+// jojo
 
 
 
